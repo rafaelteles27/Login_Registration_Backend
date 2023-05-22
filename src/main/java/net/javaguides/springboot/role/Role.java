@@ -1,4 +1,4 @@
-package net.javaguides.springboot;
+package net.javaguides.springboot.role;
 
 import jakarta.persistence.*;
 import lombok.Getter;

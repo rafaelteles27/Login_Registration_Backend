@@ -1,0 +1,10 @@
+/home/teles/Desktop/Login_Registration/Login/src/main/java/net/javaguides/springboot/controller/AuthController.java
+/home/teles/Desktop/Login_Registration/Login/src/main/java/net/javaguides/springboot/service/CustomUserDetailsService.java
+/home/teles/Desktop/Login_Registration/Login/src/main/java/net/javaguides/springboot/repository/RoleRepository.java
+/home/teles/Desktop/Login_Registration/Login/src/main/java/net/javaguides/springboot/dto/LoginDto.java
+/home/teles/Desktop/Login_Registration/Login/src/main/java/net/javaguides/springboot/user/User.java
+/home/teles/Desktop/Login_Registration/Login/src/main/java/net/javaguides/springboot/ProjectloginApplication.java
+/home/teles/Desktop/Login_Registration/Login/src/main/java/net/javaguides/springboot/role/Role.java
+/home/teles/Desktop/Login_Registration/Login/src/main/java/net/javaguides/springboot/repository/UserRepository.java
+/home/teles/Desktop/Login_Registration/Login/src/main/java/net/javaguides/springboot/dto/SignUpDto.java
+/home/teles/Desktop/Login_Registration/Login/src/main/java/net/javaguides/springboot/security/config/SecurityConfig.java

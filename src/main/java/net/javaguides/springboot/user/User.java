@@ -2,7 +2,7 @@ package net.javaguides.springboot.user;
 
 import jakarta.persistence.*;
 import lombok.Data;
-import net.javaguides.springboot.Role;
+import net.javaguides.springboot.role.Role;
 
 import java.util.Set;
 
